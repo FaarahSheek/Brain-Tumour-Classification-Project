@@ -1,6 +1,7 @@
 # Automated Brain Tumor Classification via CNNs
 ### Overview:
 
+
 This project classifies MRI brain scans into four categories using a convolutional neural network (CNN):
 
 - Glioma Tumor
@@ -9,6 +10,9 @@ This project classifies MRI brain scans into four categories using a convolution
 - Pituitary Tumor
   
  The model assists in brain tumor diagnosis by identifying the type of tumor present in MRI images.
+
+ ### Commonly asked questions
+ * h
 
 ### Project Structure
 
