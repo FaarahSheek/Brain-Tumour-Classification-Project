@@ -11,7 +11,7 @@ This project classifies MRI brain scans into four categories using a convolution
  The model assists in brain tumor diagnosis by identifying the type of tumor present in MRI images.
 
 ### Project Structure
- ** Notebook:** AutomatedBrainTumorClassificationviaCNNs.ipynb - all code from data processing to evaluation.
+ **Notebook:** AutomatedBrainTumorClassificationviaCNNs.ipynb - all code from data processing to evaluation.
 ** README.md:** Project instructions and documentation.
 ### Key Steps
  Data Preprocessing: Images are augmented and loaded from Train and Test directories for each class.
