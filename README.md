@@ -39,10 +39,10 @@ CNNs are highly effective for image-based tasks because they:
 **README.md:** Project instructions and documentation.
 
 ### Key Steps
- Data Preprocessing: Images are augmented and loaded from Train and Test directories for each class.
- Model Architecture: A CNN with convolutional, max-pooling, and dropout layers for multi-class classification.
- Training & Evaluation: Model performance is visualized using accuracy/loss plots and a confusion matrix.
- Testing: Predicts tumor types on new images to verify real-world applicability.
+ 1. Data Preprocessing: Images are augmented and loaded from Train and Test directories for each class.
+ 2. Model Architecture: A CNN with convolutional, max-pooling, and dropout layers for multi-class classification.
+ 3. Training & Evaluation: Model performance is visualized using accuracy/loss plots and a confusion matrix.
+ 4. Testing: Predicts tumor types on new images to verify real-world applicability.
 
 ## Results
  Plots and a confusion matrix provide insights into model performance.
