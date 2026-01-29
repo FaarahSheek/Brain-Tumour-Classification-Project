@@ -12,10 +12,17 @@ This project classifies MRI brain scans into four categories using a convolution
  The model assists in brain tumor diagnosis by identifying the type of tumor present in MRI images.
 
  ### Commonly asked questions
- - 1. What is the objective of this project?
+ - What is the objective of this project?
 
 Answer:
 The objective is to automatically classify brain MRI images into four categories—Glioma Tumor, Meningioma Tumor, Pituitary Tumor, and No Tumor—using a convolutional neural network (CNN) to assist in brain tumor diagnosis.
+
+- What are the limitations of this project?
+
+Some limitations include:
+Dependence on dataset quality and size
+Possible misclassification between visually similar tumor types
+Not intended to replace medical professionals—only to assist diagnosis
 
 ### Project Structure
 
