@@ -13,6 +13,7 @@ This project classifies MRI brain scans into four categories using a convolution
 
  ### Commonly asked questions
 1. Can the model predict on new MRI images?
+
 Yes. The trained model can take a new MRI image as input and predict the tumor category, making it suitable for testing on unseen real-world data.
 
 2. How can this project be improved?
