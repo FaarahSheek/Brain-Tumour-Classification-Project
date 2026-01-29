@@ -17,13 +17,14 @@ This project classifies MRI brain scans into four categories using a convolution
 Answer:
 The objective is to automatically classify brain MRI images into four categories—Glioma Tumor, Meningioma Tumor, Pituitary Tumor, and No Tumor—using a convolutional neural network (CNN) to assist in brain tumor diagnosis.
 
-2. What are the limitations of this project?
+2. How can this project be improved?
 
-Answer:
-Some limitations include:
-Dependence on dataset quality and size
-Possible misclassification between visually similar tumor types
-Not intended to replace medical professionals—only to assist diagnosis
+Possible improvements include:
+- Using transfer learning (e.g., VGG16, ResNet, EfficientNet)
+- Increasing dataset size
+- Applying advanced preprocessing techniques
+- Adding explainability methods like Grad-CAM
+- Hyperparameter tuning for better accuracy
 
 ### Project Structure
 
