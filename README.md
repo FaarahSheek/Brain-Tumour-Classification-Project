@@ -19,6 +19,7 @@ The objective is to automatically classify brain MRI images into four categories
 
 2. What are the limitations of this project?
 
+Answer:
 Some limitations include:
 Dependence on dataset quality and size
 Possible misclassification between visually similar tumor types
