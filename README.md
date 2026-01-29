@@ -58,19 +58,19 @@ CNNs are highly effective for image-based tasks because they:
 
 ### Installation:
 
-Clone the repository:
-git clone <repository-url>
+Step 1: Clone the repository:
+- git clone <repository-url>
 
 
-Step 1: Navigate to the project directory.
+Step 2: Navigate to the project directory.
 
-Install the required Python libraries:
-pip install pandas numpy matplotlib seaborn statsmodels
+Step 3: Install the required Python libraries:
+- pip install pandas numpy matplotlib seaborn statsmodels
 
 
-Step 2: Ensure the Global_Superstore.csv dataset is in the project directory.
+Step 4: Ensure the Global_Superstore.csv dataset is in the project directory.
 
-Step 3: Open the Jupyter Notebook to run the analysis.
+Step 5: Open the Jupyter Notebook to run the analysis.
 
 ### Key Steps
  1. Data Preprocessing: Images are augmented and loaded from Train and Test directories for each class.
