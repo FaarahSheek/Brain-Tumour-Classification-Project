@@ -1,5 +1,5 @@
 # Automated Brain Tumor Classification via CNNs
-### Description:
+#### Description:
 
 This project focuses on performing Exploratory Data Analysis (EDA) on GlobalMart’s sales data to better understand business performance across product categories, regions, and time periods.
 
@@ -16,7 +16,7 @@ It helps transform raw sales data into actionable insights by identifying trends
 Through this project, I learned how to clean and explore datasets, perform time-based analysis, visualise data effectively, and interpret results from a business perspective.
 
 
-### Overview:
+## Overview:
 
 
 This project classifies MRI brain scans into four categories using a convolutional neural network (CNN):
