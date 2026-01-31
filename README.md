@@ -1,18 +1,18 @@
 # Automated Brain Tumor Classification via CNNs
-#### Description:
+### Description:
 
 This project focuses on performing Exploratory Data Analysis (EDA) on GlobalMart’s sales data to better understand business performance across product categories, regions, and time periods.
 
-#### Motivation:
+### Motivation:
 The motivation behind this project was to gain hands-on experience analysing real-world business data and extracting meaningful insights that can support strategic decision-making.
 
-#### Why this project was built:
+### Why this project was built:
 The project was built to explore how sales, profit, discounts, and seasonality interact, and to identify patterns that could help improve pricing strategies, regional targeting, and overall performance.
 
-#### Problem it solves:
+### Problem it solves:
 It helps transform raw sales data into actionable insights by identifying trends, relationships, and areas of strength or concern within the business.
 
-#### What I learned:
+### What I learned:
 Through this project, I learned how to clean and explore datasets, perform time-based analysis, visualise data effectively, and interpret results from a business perspective.
 
 
